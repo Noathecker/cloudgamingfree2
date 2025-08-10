@@ -1310,7 +1310,7 @@ function playPop(){
     }
     ctx.clearRect(0,0,canvas.width,canvas.height);
     drawWheel();
-  }
+  }gửi
 
   function result(){
     const degrees = startAngle * 180 / Math.PI + 90;
@@ -1535,6 +1535,3 @@ document.addEventListener('DOMContentLoaded', function(){
   });
 });
 </script>
-
-</body>
-</html>
