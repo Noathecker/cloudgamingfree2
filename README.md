@@ -1,4 +1,3 @@
-<html lang="vi">
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
@@ -812,14 +811,6 @@ main { padding-bottom: 160px; } /* give space for toggle button and tabs */
               <button class="btn primary play-btn" data-url="https://testdrive-int2.now.gg/apps/google-llc/1395/youtube.html">Play</button>
             </div>
           </div>
-          
-          <h1> Hết r <h1>
-          
-        </div>
-      </section>
-
-</main>
-  </div>
 
   <!-- modal add device -->
 <div class="modal-back" id="modalBack">
